@@ -12,5 +12,7 @@ public class VariableExchangeExample {
         System.out.print("x: " + x);
         System.out.println(", y: " + y);
 
+        // 확인 필요
+
     }
 }
